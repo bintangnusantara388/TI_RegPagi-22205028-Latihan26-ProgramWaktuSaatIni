@@ -7,7 +7,12 @@ import java.util.Date;
 import java.text.SimpleDateFormat;
 /**
  *
- * @author User
+ * @author user 
+ Nama              : Bintang Fajar Nusantara 
+ Nim               : 22205028 
+ Prodi             : Teknik Informatika 
+ Kelas             : PBO 1
+ Deskripsi Program : Program ini berisi program yang menampilkan Waktu Saat Ini
  */
 public class Latihan26 {
     public static void main(String[] args) {
